@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPhoneRegex", "CheckPhoneRegex\CheckPhoneRegex.csproj", "{4FD2AB64-097F-4757-A0BB-DAD878D420D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCPR", "TestCPR\TestCPR.csproj", "{8372914A-A51C-4B6D-A965-48B09499A1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD2AB64-097F-4757-A0BB-DAD878D420D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD2AB64-097F-4757-A0BB-DAD878D420D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD2AB64-097F-4757-A0BB-DAD878D420D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD2AB64-097F-4757-A0BB-DAD878D420D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8372914A-A51C-4B6D-A965-48B09499A1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8372914A-A51C-4B6D-A965-48B09499A1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8372914A-A51C-4B6D-A965-48B09499A1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8372914A-A51C-4B6D-A965-48B09499A1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FF6F17-3722-44C3-8C65-F9513B754362}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\bin\Debug\net6.0\CheckPhoneRegex.exe
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\bin\Debug\net6.0\CheckPhoneRegex.deps.json
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\bin\Debug\net6.0\CheckPhoneRegex.runtimeconfig.json
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\bin\Debug\net6.0\CheckPhoneRegex.dll
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\bin\Debug\net6.0\CheckPhoneRegex.pdb
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\CheckPhoneRegex.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\CheckPhoneRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\CheckPhoneRegex.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\CheckPhoneRegex.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\CheckPhoneRegex.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\CheckPhoneRegex.dll
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\refint\CheckPhoneRegex.dll
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\CheckPhoneRegex.pdb
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\CheckPhoneRegex.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\SWTt\Min\CheckPhoneRegex\CheckPhoneRegex\obj\Debug\net6.0\ref\CheckPhoneRegex.dll
